@@ -1,4 +1,8 @@
 # Election Analysis
+--------------------
+Andrej Arsovski
+
+September 27 2020
 
 ## Project Overview
 The goal of this work was to audit a fictional, local congressional election. The raw data was received in a .csv file and contained the ballot ID, county, and chosen candidate.
